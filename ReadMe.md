@@ -21,7 +21,11 @@ Script uses widely available libraries
 
 ### Installation
 
-All that is required for this code is a browser. The ps.js library is pull into the game vis cdn. See [p5.js] (https://p5js.org/)
+All that is required for this code is a browser. The P5js library is avialble as a static file in the package See [p5.js] (https://p5js.org/)
+
+### Game Play
+
+It is recommended to use launch this web game in the browser using a either a form of "liveserver" serving through localhost of via any remotely implemented server over the internet
 
 ### Collaboration
 This code is open to improvements
